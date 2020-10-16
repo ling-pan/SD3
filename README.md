@@ -1,10 +1,6 @@
 # Softmax Deep Double Deterministic Policy Gradients
 
-This repository is the official implementation of Softmax Deep Deterministic Policy Gradients (https://arxiv.org/abs/TBD) in NeurIPS 2020, and is based on the open-source [TD3](https://github.com/sfujim/TD3) codebase.
-
->📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials
-
-The website for this paper is TBD.
+This repository is the implementation of Softmax Deep Deterministic Policy Gradients in NeurIPS 2020, and is based on the open-source [TD3](https://github.com/sfujim/TD3) codebase.
 
 Please cite our paper if you use this codebase:
 
